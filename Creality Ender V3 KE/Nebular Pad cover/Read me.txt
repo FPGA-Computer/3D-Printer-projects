@@ -1,0 +1,4 @@
+The hole size is 0.0787" (2mm).
+
+Pin for hinge is AWG 14 bare solid copper wire 0.064"(1.628mm) dia.
+A cut piece of 1.75mm dia. filament might be a tight fit but would loosen over time.
