@@ -1,0 +1,6 @@
+dockstar.skb : Sketchup design file for all 3.
+
+ddockstar fan.stl - (repaired)Printed with regular support 
+dockstar vents.stl - can be printed with or without support
+dockstar insert.stl
+
