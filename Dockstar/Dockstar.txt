@@ -5,3 +5,5 @@ dockstar vents.stl - can be printed with or without support
 dockstar insert.stl
 
 Hole(s) needed to be drilled for fan wires.
+
+Project page: https://hw-by-design.blogspot.com/2025/08/dockstar-cooling-mod.html
